@@ -17,13 +17,10 @@
 ## 📸 System Preview
 
 <!-- PLACEHOLDER: Replace with a screenshot of the console menu in action -->
-> **[<img width="588" height="441" alt="image" src="https://github.com/user-attachments/assets/5d11c258-a1ce-4383-8da9-af6365e0ab24" />
-]** — Console menu walkthrough showing vehicle entry, ticket generation, and exit flow.
-> *(Replace this with an actual screenshot: e.g., `![Console Preview](assets/console-preview.png)`)*
+> **<img width="588" height="441" alt="image" src="https://github.com/user-attachments/assets/5d11c258-a1ce-4383-8da9-af6365e0ab24" />
+
 <!-- PLACEHOLDER: Replace with a UML class diagram or architecture diagram -->
-> **[<img width="301" height="184" alt="image" src="https://github.com/user-attachments/assets/bed967cd-cc22-4b97-892d-ccc9c0468b9b" />
-]** — UML Class Diagram showing relationships between `Vehicle`, `ParkingLot`, `ParkingSpot`, and `Ticket`.
-> *(Replace this with an actual diagram: e.g., `![UML Diagram](assets/uml-diagram.png)`)*
+> **<img width="301" height="184" alt="image" src="https://github.com/user-attachments/assets/bed967cd-cc22-4b97-892d-ccc9c0468b9b" />
 
 ---
 
